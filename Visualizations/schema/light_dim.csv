@@ -1,0 +1,7 @@
+light_conditions_id,light_conditions
+1,Daylight
+4,Darkness - lights lit
+5,Darkness - lights unlit
+6,Darkness - no lighting
+7,Darkness - lighting unknown
+8,unknown
